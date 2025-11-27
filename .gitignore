@@ -1,0 +1,18 @@
+# PYTHON
+venv/
+__pycache__/
+*.pyc
+
+# ENV
+.env
+
+# REACT
+frontend/node_modules/
+frontend/build/
+
+# SYSTEM
+.vscode/
+.DS_Store
+Thumbs.db
+
+Metal-Recycling-Opportunities-Limits-Infrastructure-2013Metal_recycling.pdf
